@@ -1,0 +1,6 @@
+name: basic_lint
+description: 'A Basic Lint Package'
+version: 1.0.0
+
+environment:
+  sdk: ^3.5.4
