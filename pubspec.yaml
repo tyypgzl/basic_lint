@@ -1,8 +1,10 @@
 name: basic_lint
 description: 'A Basic Lint Package'
-homepage: 'https://tguzel.dev'
+homepage: 'tguzel.dev'
+issue_tracker: https://github.com/tyypgzl/basic_lint/issues
+repository: https://github.com/tyypgzl/basic_lint
 
-version: 1.0.0+1
+version: 1.0.1
 
 environment:
   sdk: ^3.5.4
